@@ -50,3 +50,20 @@
   margin: 10px;
   background-color: #ffff66
 }
+
+.footer {
+  background-color: #75a9ff;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.footer-item {
+  height: 40px;
+  flex-basis: 45%;
+  margin: 10px;
+  background-color: #c2eeff;
+  max-width: 600px;
+}
